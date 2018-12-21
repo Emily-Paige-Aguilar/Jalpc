@@ -12,7 +12,7 @@
   job:
     detail: eDiscovery Consultant
     i18n: company_a_job
-  icon: fas fa-chalkboard-teacher
+  icon: fas fa-gavel
 
 - name:
     detail: Blushington Inc.
@@ -26,7 +26,7 @@
   job:
     detail: Marketing Assistant
     i18n: company_b_job
-  icon: fas fa-calender-check
+  icon: icon-line-graph
 
 - name:
     detail: Kappa Kappa Gamma
@@ -40,7 +40,7 @@
   job:
     detail: Public Relations Chairman
     i18n: company_a_job
-  icon: fas fa-handshake
+  icon: fa-plus-square
 
 - name:
     detail: The Valley Girl Show
