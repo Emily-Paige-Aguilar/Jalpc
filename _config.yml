@@ -20,14 +20,14 @@ author:  # change following line to your infomation.
   facebook_username: emilypaige.aguilar  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email: emily.aguilar@ucla.edu  # Leave blank if you don't have now
-  cv:  # An online CV can be printed as PDF, leave blank if you don't have now
+#   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-phone-alt
-    - name: fa-file-excel
+    - name: icon-line-graph
   skill_icon2:
-    - name: fa-calender-check
-    - name: fa-gravel
+    - name: fas fa-calender-check
+    - name: fas fa-gravel
   desc: As a project manager at FTI Consulting, I simultaneously oversee multiple litigation-based projects for Am Law 100 firms, government agencies, and Fortune 500 Companies. With my background in political game theory, I excel in problem-solving and creatively strategizing to complete stringent deadlines while still focusing on client relationships. Feel free to contact me with any questions about my profile, as I’d love to connect.   # Describe yourself.
 
 # comment
