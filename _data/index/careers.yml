@@ -1,29 +1,48 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: FTI Consulting
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Provide consulting services to Am Law 100 law firms, government agencies, and Fortune 500 litigation groups for coordinating large-scale document review engagements using different legal database platforms.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: April 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: eDiscovery Consultant
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Blushington Inc.
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: • Built partnerships and promotions with other businesses (Equinox, SoulCycle)
+• Coordinated and created unique Blushington events (trunk shows, pop-ups)
+• Measured promotion success by tracking and analyzing different data sources
+• Maintained an active and appealing social media presence 
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jun. 2016 - Sept. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Marketing Assistant
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Kappa Kappa Gamma
+    i18n: company_a
+  desc:
+    detail: • Managed content to display on all social media and outreach platforms 
+• Planned and executed outreach events to improve relations with the university and community 
+• Attended and helped lead weekly leadership meetings
+    i18n: company_a_desc
+  date:
+    detail: 2015 - 2016
+    i18n: company_a_date
+  job:
+    detail: Public Relations Chairman
+    i18n: company_a_job
   icon: fa-plus-square
