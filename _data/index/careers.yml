@@ -18,10 +18,7 @@
     detail: Blushington Inc.
     i18n: company_b
   desc:
-    detail: • Built partnerships and promotions with other businesses (Equinox, SoulCycle)
-• Coordinated and created unique Blushington events (trunk shows, pop-ups)
-• Measured promotion success by tracking and analyzing different data sources
-• Maintained an active and appealing social media presence 
+    detail: Built partnerships and promotions with other businesses (Equinox, SoulCycle), Coordinated and created unique Blushington events (trunk shows, pop-ups), Measured promotion success by tracking and analyzing different data sources, Maintained an active and appealing social media presence 
     i18n: company_b_desc
   date:
     detail: Jun. 2016 - Sept. 2016
@@ -35,9 +32,7 @@
     detail: Kappa Kappa Gamma
     i18n: company_a
   desc:
-    detail: • Managed content to display on all social media and outreach platforms 
-• Planned and executed outreach events to improve relations with the university and community 
-• Attended and helped lead weekly leadership meetings
+    detail: Managed content to display on all social media and outreach platforms, Planned and executed outreach events to improve relations with the university and community, Attended and helped lead weekly leadership meetings
     i18n: company_a_desc
   date:
     detail: 2015 - 2016
