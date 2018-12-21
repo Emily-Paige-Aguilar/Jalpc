@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
     - name: icon-phone-alt
     - name: icon-line-graph
   skill_icon2:
-    - name: fas fa-file-excel
+    - name: fa-tasks
     - name: fas fa-gavel
   desc: As a project manager at FTI Consulting, I simultaneously oversee multiple litigation-based projects for Am Law 100 firms, government agencies, and Fortune 500 Companies. With my background in political game theory, I excel in problem-solving and creatively strategizing to complete stringent deadlines while still focusing on client relationships. Feel free to contact me with any questions about my profile, as I’d love to connect.   # Describe yourself.
 
