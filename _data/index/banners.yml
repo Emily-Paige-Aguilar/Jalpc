@@ -5,14 +5,17 @@
 # - src: landing/img1.jpg
 #   title: first banner image
 
-- src: landing/img2.jpg
+- src: landing/westwood.jpg
   title: second banner image
   
-- src: landing/img3.jpg
+- src: landing/ucla.jpg
   title: third banner image
 
-- src: landing/img4.jg.jpg
+- src: landing/tulip.jg.jpg
   title: fourth banner image
   
 - src: landing/img5.jpg
+  title: fifth banner image
+
+- src: landing/coachella.jpg
   title: fifth banner image
