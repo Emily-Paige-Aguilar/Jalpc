@@ -5,7 +5,7 @@
 - src: landing/img1.jpg
   title: first banner image
 
-- src: landing/header_one.jpg
+- src: landing/img2.jpg
   title: second banner image
   
   - src: landing/img3.jpg
