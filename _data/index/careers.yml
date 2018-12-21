@@ -12,7 +12,7 @@
   job:
     detail: eDiscovery Consultant
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-chalkboard-teacher
 
 - name:
     detail: Blushington Inc.
@@ -26,7 +26,7 @@
   job:
     detail: Marketing Assistant
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-calender-check
 
 - name:
     detail: Kappa Kappa Gamma
@@ -40,4 +40,18 @@
   job:
     detail: Public Relations Chairman
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-handshake
+
+- name:
+    detail: The Valley Girl Show
+    i18n: company_a
+  desc:
+    detail: Assisted with production, responsibilities included designing sets, both on premise and in the field, prepping interview candidates, and supporting Jesse Draper, host of the show
+    i18n: company_a_desc
+  date:
+    detail: 2015
+    i18n: company_a_date
+  job:
+    detail: Production Assistant
+    i18n: company_a_job
+  icon: fa-tasks
