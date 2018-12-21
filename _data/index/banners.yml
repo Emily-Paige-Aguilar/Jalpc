@@ -8,11 +8,11 @@
 - src: landing/img2.jpg
   title: second banner image
   
-  - src: landing/img3.jpg
-  title: first banner image
+- src: landing/img3.jpg
+  title: third banner image
 
 - src: landing/img4.jg.jpg
-  title: second banner image
+  title: fourth banner image
   
-  - src: landing/img5.jpg
-  title: first banner image
+- src: landing/img5.jpg
+  title: fifth banner image
