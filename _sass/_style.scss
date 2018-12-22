@@ -2504,6 +2504,9 @@ body {
     width: 100%;
     background-position: 50% 0;
     background-repeat:  no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
   }
   .carousel {
     height: 470px;
